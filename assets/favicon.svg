@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Merlin's Mystery Tours">
+  <rect width="64" height="64" rx="12" fill="#233625"/>
+  <path d="M12 43c10-13 18-19 28-19 5 0 9 2 12 5" fill="none" stroke="#d9c1a2" stroke-width="6" stroke-linecap="round"/>
+  <path d="M14 48c12-9 25-10 38-3" fill="none" stroke="#fffaf0" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="22" cy="49" r="4" fill="#a4693d"/>
+  <circle cx="44" cy="47" r="4" fill="#a4693d"/>
+</svg>
